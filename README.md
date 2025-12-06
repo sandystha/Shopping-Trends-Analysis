@@ -1,11 +1,11 @@
 
-# 🛍️ Shopping Trends Analysis
+# Shopping Trends Analysis
 
 This project analyzes customer behavior, seasonal trends, color preferences, location performance, and loyalty patterns using the `shopping_trends_updated` dataset. The goal is to uncover actionable insights that can support inventory planning, marketing strategies, and customer experience improvements.
 
 
 
-## 📌 Problem Statement
+## Problem Statement
 
 Retail stores often struggle to understand what drives customer purchases across different seasons, locations, and demographic groups. Without these insights, stocking decisions, marketing strategies, and loyalty programs may be ineffective.
 
@@ -20,7 +20,7 @@ The findings help guide better business decisions around inventory, customer eng
 
 ---
 
-## ❓ Key Questions Analyzed
+##  Key Questions Analyzed
 
 1. **How many unique customers visited the store?**  
 2. **What percentage of customers are male vs. female?**  
@@ -33,7 +33,7 @@ The findings help guide better business decisions around inventory, customer eng
 
 ---
 
-## 📊 Summary of Findings
+## Summary of Findings
 
 ### **Customer Demographics**
 - **3,900 unique customers**.
@@ -61,7 +61,7 @@ The findings help guide better business decisions around inventory, customer eng
 
 ---
 
-## ⭐ Recommendations
+## Recommendations
 
 1. **Increase male-oriented inventory**, but maintain optimized female stock.
 2. **Stock seasonally relevant items** using observed patterns (e.g., jackets in fall, dresses in summer).
@@ -72,7 +72,7 @@ The findings help guide better business decisions around inventory, customer eng
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 - SQL (CTEs, window functions, aggregations)
 - Database: SQL Server
 
